@@ -1,0 +1,15 @@
+.box1 {
+  width: 300px;
+  height: 300px;
+  margin: 100px;
+  padding: 100px;
+  background-color: #567865;
+  /* DMMWEBCAMP */
+}
+
+.box2 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border: 5px solid yellow;
+}
